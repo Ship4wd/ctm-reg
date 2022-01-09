@@ -1,0 +1,22 @@
+.ctm-reg {
+  h2 {
+    font-size: 30px;
+    line-height: 48px;
+    @include respond-above(sm) {
+      font-size: 40px;
+      line-height: 66px;
+    }
+  }
+  h3 {
+    font-size: 30px;
+    line-height: 45px;
+    @include respond-above(sm) {
+      font-size: 40px;
+      line-height: 50px;
+    }
+  }
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}

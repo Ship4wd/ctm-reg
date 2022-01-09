@@ -1,0 +1,15 @@
+.btn {
+  &.btn-primary {
+    background: $primary-color;
+    border-color: $primary-color;
+    color: #ffffff;
+    font-weight: 600;
+    min-width: 155px;
+    text-transform: none;
+    &:hover,
+    &:active,
+    &:focus {
+      box-shadow: none;
+    }
+  }
+}

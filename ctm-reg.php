@@ -9,21 +9,21 @@
  * that starts the plugin.
  *
  * @link              https://www.valleydevelopers.com/
- * @since             1.0.1
+ * @since             1.0.0
  * @package           Ctm_Reg
  *
  * @wordpress-plugin
  * Plugin Name:       Ship4WD - Custom Registration
  * Plugin URI:        https://www.valleydevelopers.com/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Valley Developers
  * Author URI:        https://www.valleydevelopers.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       ctm-reg
  * Domain Path:       /languages
- * GitHub Plugin URI: Ship4wd/ship4wd-wp-website
+ * GitHub Plugin URI: Ship4wd/ctm-reg
  */
 
 // If this file is called directly, abort.
